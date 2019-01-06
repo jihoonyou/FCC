@@ -1,0 +1,36 @@
+body {
+	background-color: #2C2A37;
+	color: white;
+	font-family: Helvetica;
+}
+
+.application {
+	text-align: center;
+	margin-top: 25px;
+}
+
+#pic {
+	width: 300px;
+
+}
+
+h1 {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-size: 60px;
+	text-align: center;
+}
+
+
+h4 {
+	text-align: right;
+	font-family: Snell Roundhand, cursive;
+	margin-right: 30px;
+
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
